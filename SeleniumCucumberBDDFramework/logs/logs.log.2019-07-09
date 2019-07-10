@@ -1,0 +1,67 @@
+2019-07-09 23:36:53,142 INFO  [ExtentReportListener]-[] - Starting test
+2019-07-09 23:36:53,257 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-07-09 23:36:53,355 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-07-09 23:36:53,573 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:37:19,215 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:37:19,628 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:37:20,177 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:37:20,434 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:37:31,980 INFO  [CommunityPage]-[] - I have pressedLatest
+2019-07-09 23:37:33,750 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:37:33,752 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:37:38,618 INFO  [ExtentReportListener]-[] - Test Fail
+2019-07-09 23:37:38,738 INFO  [ExtentReportListener]-[] - Ending
+2019-07-09 23:40:08,590 INFO  [ExtentReportListener]-[] - Starting test
+2019-07-09 23:40:08,664 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-07-09 23:40:08,745 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-07-09 23:40:08,895 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:40:46,461 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:40:46,898 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:40:47,455 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:40:47,691 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:40:54,960 INFO  [CommunityPage]-[] - I have pressedLatest
+2019-07-09 23:40:57,042 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:40:57,054 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:41:40,689 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:41:41,050 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:41:41,533 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:41:41,770 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:41:49,199 INFO  [CommunityPage]-[] - I have pressedHome
+2019-07-09 23:41:50,314 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:41:50,465 INFO  [ExtentReportListener]-[] - Ending
+2019-07-09 23:44:55,192 INFO  [ExtentReportListener]-[] - Starting test
+2019-07-09 23:44:55,290 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-07-09 23:44:55,434 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-07-09 23:44:55,671 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:45:32,592 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:45:33,063 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:45:33,710 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:45:34,093 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:45:45,429 INFO  [CommunityPage]-[] - I have pressedLatest
+2019-07-09 23:45:47,653 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:45:47,656 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:46:17,031 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:46:17,567 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:46:18,091 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:46:18,379 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:46:26,525 INFO  [CommunityPage]-[] - I have pressedHome
+2019-07-09 23:46:27,181 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:46:27,467 INFO  [ExtentReportListener]-[] - Ending
+2019-07-09 23:46:29,633 INFO  [ExtentReportListener]-[] - Starting test
+2019-07-09 23:46:29,870 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-07-09 23:46:30,047 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-07-09 23:46:30,352 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:47:05,410 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:47:05,902 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:47:06,466 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:47:06,707 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:49:38,199 INFO  [CommunityPage]-[] - I have pressedLatest
+2019-07-09 23:49:44,214 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:49:44,216 INFO  [ExtentReportListener]-[] - Starting Test
+2019-07-09 23:52:07,579 INFO  [HomePage]-[] - Going to click Help Button
+2019-07-09 23:52:07,949 INFO  [HomePage]-[] - Clicked on Help Menu
+2019-07-09 23:52:08,671 INFO  [HomePage]-[] - Going to click Community in Sub Menu
+2019-07-09 23:52:09,109 INFO  [HomePage]-[] - Clicked on Community in Sub Menu
+2019-07-09 23:52:29,499 INFO  [CommunityPage]-[] - I have pressedHome
+2019-07-09 23:52:34,702 INFO  [ExtentReportListener]-[] - Passed
+2019-07-09 23:52:34,806 INFO  [ExtentReportListener]-[] - Ending
